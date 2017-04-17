@@ -1,6 +1,6 @@
 # Flex Content #
 
-## Flex content with a mouse click##
+## Flex content with a mouse click ##
 
 ---
 
